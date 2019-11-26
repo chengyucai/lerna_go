@@ -1,11 +1,11 @@
 {
-  "name": "LT-generate",
+  "name": "lion_generate",
   "version": "1.0.0",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "caichengyu <chengyucai@liontravel.com>",
   "license": "ISC",
-  "main": "lib/LT-generate.js",
+  "main": "lib/lion_generate.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chengyucai/lerna_go.git"

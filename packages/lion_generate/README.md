@@ -1,11 +1,11 @@
-# `LT-generate`
+# `lion_generate`
 
 > TODO: description
 
 ## Usage
 
 ```
-const ltGenerate = require('LT-generate');
+const lionGenerate = require('lion_generate');
 
 // TODO: DEMONSTRATE API
 ```
